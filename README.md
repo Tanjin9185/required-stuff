@@ -1,13 +1,26 @@
 # required-stuff
 
+
+#Tomorrow
+django channels
+https://www.youtube.com/watch?v=RVH05S1qab8
+
+
+
+
+
+
 flaskwebgui
 https://pypi.org/project/flaskwebgui/\
 
-Python basics
-https://python.howtocode.dev/
-
-know about python buitin libary\
+pywebview
 https://docs.python.org/3/py-modindex.html
+
+flask-desktop
+https://github.com/Widdershin/flask-desktop
+
+
+
 
 AXIOS: Powerful AJAX Library
 https://www.youtube.com/watch?v=oAHGpmyJD7g
@@ -36,4 +49,9 @@ https://www.youtube.com/watch?v=85YgzqhqzcU
 
 Complete Python Django Rest Framework Tutorial Series in Urdu / Hindi 2020
 https://www.youtube.com/playlist?list=PL9fcHFJHtFabkWgr2nhjIr1H7ND1IyQzZ
+
+
+natok:
+after work:
+https://www.youtube.com/watch?v=UXQT-g6Xpvk
 
