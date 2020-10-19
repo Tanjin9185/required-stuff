@@ -7,7 +7,8 @@ https://www.youtube.com/watch?v=RVH05S1qab8
 
 
 
-
+#django-channel video chat/ or realtime texting or notification applicttion
+Implement with react ,after learning that
 
 
 flaskwebgui
