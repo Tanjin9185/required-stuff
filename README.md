@@ -1,8 +1,9 @@
 # required-stuff
 
-django usermodel confusion:
-for Default User : User,get_user_model(),settings.AUTH_USER_MODEL both will work
-for Custom User : must have to use get_user_model() and need to change settings.AUTH_USER_MODEL='apps_name.abstract over write model', also use it as foreignkey
+django usermodel confusion
+
+#for Default User : User,get_user_model(),settings.AUTH_USER_MODEL both will work
+#for Custom User : must have to use get_user_model() and need to change settings.AUTH_USER_MODEL='apps_name.abstract over write model', also use it as foreignkey
 
 
 https://nuhil.net/
