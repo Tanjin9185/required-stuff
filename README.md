@@ -2,9 +2,9 @@
 
 django usermodel confusion
 
-# get_user_model : is to just always use
-# User : For Default Model
-# settings.AUTH_USER_MODEL : only works if a custom user model is set.
+#get_user_model : is to just always use
+#User : For Default Model
+#settings.AUTH_USER_MODEL : only works if a custom user model is set. also need to define the custom user model in settings
 
 https://nuhil.net/
 
