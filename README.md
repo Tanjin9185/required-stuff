@@ -1,5 +1,15 @@
 # required-stuff
 
+## temporary tab:
+https://www.youtube.com/watch?v=AwLUf-xVk8s
+https://www.youtube.com/watch?v=fUB3OP67lC0
+https://www.youtube.com/watch?v=shbKNuNPke0
+https://www.youtube.com/watch?v=qFqTia1CJwM
+https://www.youtube.com/watch?v=Y3RJ4U-KDC0&list=PLa4ZF5cEZzuaSvQWpmahJh5RauoNVVY2O
+https://mdbootstrap.com/docs/jquery/modals/additional/
+https://www.youtube.com/watch?v=AQsNLbS5HHw
+https://djangobook.com/mdj2-advanced-models/
+
 django usermodel confusion
 
 #get_user_model : is to just always use
