@@ -1,5 +1,8 @@
 # required-stuff
 
+# This Video Concept is helpfull to build Note Realtime Display
+https://www.youtube.com/watch?v=DhscKT1t8Vs&list=PLgjw1dR712jpsbwDlbuS2tE7UbH-_9OPb&index=3
+
 ## temporary tab:
 https://www.youtube.com/watch?v=AwLUf-xVk8s
 https://www.youtube.com/watch?v=fUB3OP67lC0
